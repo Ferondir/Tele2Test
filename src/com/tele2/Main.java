@@ -2,6 +2,10 @@ package com.tele2;
 
 public class Main{
 	public static void main(String[] args){
-		System.out.println("I love you Tanya");
+		
+		
+		for (int i=0; i<10;i++){
+			System.out.println("I love you Tanya");
+		}
 	}
 }
