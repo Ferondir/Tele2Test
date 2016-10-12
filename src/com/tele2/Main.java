@@ -11,6 +11,9 @@ public class Main{
 		MyArray.arrayReverse(array);
 		MyArray.arrayPrint(array);
 		
+		MyArray.arrayFill(array);
+		MyArray.arrayPrint(array);
+		
 		
 		for (int i=0; i<10;i++){
 			System.out.println("I love you Tanya");

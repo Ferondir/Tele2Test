@@ -28,4 +28,12 @@ public class MyArray{
 		return(ar);
 	}
 	
+	public static int[] arrayFill(int[] ar){
+		for (int i=0; i<ar.length;i++){
+			ar[i] = i + 1;
+		}
+		
+		return(ar);
+	}
+	
 }
