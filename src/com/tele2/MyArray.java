@@ -36,4 +36,10 @@ public class MyArray{
 		return(ar);
 	}
 	
+	
+	public static int[] arrayShuffle(int[] ar){
+		
+		return(ar);
+	}
+	
 }
